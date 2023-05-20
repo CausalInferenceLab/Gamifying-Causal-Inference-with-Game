@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCausalInferenceLab%2FGamifying-Causal-Inference-with-Game&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 책 소개 : : Gamifying Causal Inference with Game
+## 책 소개 : Gamifying Causal Inference with Game
 
 안녕하세요. [가짜연구소](https://pseudo-lab.com/) Causal Inference 팀입니다.   
 <br> 
